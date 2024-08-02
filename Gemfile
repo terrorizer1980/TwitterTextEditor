@@ -2,4 +2,4 @@ source 'https://rubygems.org'
 
 gem 'jazzy'
 gem 'listen'
-gem 'rubocop'
+gem 'rubocop', '>= 1.9.0'
